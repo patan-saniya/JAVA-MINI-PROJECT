@@ -1,6 +1,6 @@
 ## Title: To write a java code on Library Management System(file-based)
 ## Source Code:
-## Book.java
+## Book.java:
 ``` java
 public class Book {
     int id;
@@ -14,7 +14,7 @@ public class Book {
     }
 }
 ```
-## Library.java
+## Library.java:
 ``` java
 import java.util.ArrayList;
 
@@ -56,7 +56,7 @@ public class Library {
 }
 
 ```
-## LibrarySystem.java
+## LibrarySystem.java:
 ``` java
 import java.util.Scanner;
 
@@ -111,6 +111,8 @@ public class LibrarySystem {
     }
 }
 ```
+## OUTPUT:
+![OUTPUT](output.PNG)
 
 
 
